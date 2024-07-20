@@ -112,9 +112,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Yash Falke - [@yashfalke77](https://www.instagram.com/yashfalke77/) - yashfalke77@gmail.com
+Yash Falke - [@Amritansh]([https://www.instagram.com/yashfalke77/](https://www.linkedin.com/in/amritanshmani/)) - yashfalke77@gmail.com
 
-Project Link: [YelpCamp Campgrounds](https://github.com/yashfalke77/YelpCamp-Campgrounds)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
