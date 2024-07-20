@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Yash Falke - [@Amritansh]([https://www.instagram.com/yashfalke77/](https://www.linkedin.com/in/amritanshmani/)) - amrit10vns@gmail.com
+Amritansh - [@Amritansh Tripathi]([https://www.instagram.com/yashfalke77/](https://www.linkedin.com/in/amritanshmani/)) - amrit10vns@gmail.com
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
